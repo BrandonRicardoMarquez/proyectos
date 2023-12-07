@@ -1,0 +1,9 @@
+{
+    "from": "web",
+    "to": "server",
+    "action": "SEND_DATA",
+    "data": {
+        "temperature": "50°C",
+        "humidity": "23%"
+        }
+}
